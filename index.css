@@ -1,0 +1,74 @@
+img{
+    border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: auto;
+  border:7px dotted goldenrod ;
+ 
+}
+.container
+{
+  width:900px;
+}
+.firstrow
+{
+    margin: 10px;
+    padding-top:80px;
+    background-color: gray;
+}
+.rectangle {
+    height: 70px;
+    width: 500px;
+    background-color:goldenrod  ;
+    margin-left: 20%;
+    text-align: center;
+     margin-top: 0px;
+    padding-bottom: 30px;
+    font-size: 55px;
+    
+}
+#myProgress {
+    width: 100%;
+    background-color: grey;
+  }
+  
+  #myBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+  }
+  .progress
+  {
+    margin-left: 150px;
+    margin-top: 0px;
+   color: coral;
+   width: 40%;
+   height: 8px;
+   background-color: gray;
+  }
+  .vl {
+    border-left: 1px solid black;
+    height: 1250px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    margin-top: 440px;
+    top: 0;
+  }
+  i {
+    background-color: goldenrod;
+    border-radius: 50%;
+    size: 1px;
+    padding: 2px;
+  }
+  span
+  {
+    font-size: larger;
+    padding-left: 5px;
+  }
+  span{
+    font-size: 16px;
+  }
+  
